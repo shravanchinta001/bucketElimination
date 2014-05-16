@@ -1,0 +1,12 @@
+Shravan Chinta - SXC129530
+
+Inputs:
+
+Variable information file - variable information file path is passed through the run time arguments, string arguments in main function through 'args[0]'.
+
+Evidance information file - Evidance file path is passed through the run time arguments, string arguments in main function through 'args[1]'.
+
+output - output displayed on console.
+
+Java version:
+1.7
